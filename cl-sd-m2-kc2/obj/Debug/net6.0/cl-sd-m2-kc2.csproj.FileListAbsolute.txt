@@ -1,0 +1,15 @@
+C:\Users\brayd\source\repos\cl-sd-m2-kc2\cl-sd-m2-kc2\bin\Debug\net6.0\cl-sd-m2-kc2.exe
+C:\Users\brayd\source\repos\cl-sd-m2-kc2\cl-sd-m2-kc2\bin\Debug\net6.0\cl-sd-m2-kc2.deps.json
+C:\Users\brayd\source\repos\cl-sd-m2-kc2\cl-sd-m2-kc2\bin\Debug\net6.0\cl-sd-m2-kc2.runtimeconfig.json
+C:\Users\brayd\source\repos\cl-sd-m2-kc2\cl-sd-m2-kc2\bin\Debug\net6.0\cl-sd-m2-kc2.dll
+C:\Users\brayd\source\repos\cl-sd-m2-kc2\cl-sd-m2-kc2\bin\Debug\net6.0\cl-sd-m2-kc2.pdb
+C:\Users\brayd\source\repos\cl-sd-m2-kc2\cl-sd-m2-kc2\obj\Debug\net6.0\cl-sd-m2-kc2.csproj.AssemblyReference.cache
+C:\Users\brayd\source\repos\cl-sd-m2-kc2\cl-sd-m2-kc2\obj\Debug\net6.0\cl-sd-m2-kc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brayd\source\repos\cl-sd-m2-kc2\cl-sd-m2-kc2\obj\Debug\net6.0\cl-sd-m2-kc2.AssemblyInfoInputs.cache
+C:\Users\brayd\source\repos\cl-sd-m2-kc2\cl-sd-m2-kc2\obj\Debug\net6.0\cl-sd-m2-kc2.AssemblyInfo.cs
+C:\Users\brayd\source\repos\cl-sd-m2-kc2\cl-sd-m2-kc2\obj\Debug\net6.0\cl-sd-m2-kc2.csproj.CoreCompileInputs.cache
+C:\Users\brayd\source\repos\cl-sd-m2-kc2\cl-sd-m2-kc2\obj\Debug\net6.0\cl-sd-m2-kc2.dll
+C:\Users\brayd\source\repos\cl-sd-m2-kc2\cl-sd-m2-kc2\obj\Debug\net6.0\refint\cl-sd-m2-kc2.dll
+C:\Users\brayd\source\repos\cl-sd-m2-kc2\cl-sd-m2-kc2\obj\Debug\net6.0\cl-sd-m2-kc2.pdb
+C:\Users\brayd\source\repos\cl-sd-m2-kc2\cl-sd-m2-kc2\obj\Debug\net6.0\cl-sd-m2-kc2.genruntimeconfig.cache
+C:\Users\brayd\source\repos\cl-sd-m2-kc2\cl-sd-m2-kc2\obj\Debug\net6.0\ref\cl-sd-m2-kc2.dll

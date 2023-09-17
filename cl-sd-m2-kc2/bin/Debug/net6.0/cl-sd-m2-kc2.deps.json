@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "cl-sd-m2-kc2/1.0.0": {
+        "runtime": {
+          "cl-sd-m2-kc2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cl-sd-m2-kc2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
